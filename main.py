@@ -27,4 +27,4 @@ if __name__ == "__main__":
     saludo = saludar(nombre)
     print(saludo)
     despedida = despedirse(nombre)
-    print("Daniel " + despedida)
+    print("Dani " + despedida)
